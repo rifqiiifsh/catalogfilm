@@ -1,0 +1,253 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Katalog Film</string>
+    <string name="tagline">Tonton. Nilai. Ulangi.</string>
+    <string name="app_tagline">Tonton. Nilai. Ulangi.</string>
+    <string name="auth_welcome_back">Selamat Datang Kembali!</string>
+    <string name="auth_login_subtitle">Masuk untuk melanjutkan</string>
+    <string name="auth_google">Lanjutkan dengan Google</string>
+    <string name="auth_or">atau</string>
+    <string name="auth_name_hint">Nama lengkap</string>
+    <string name="auth_email_hint">Email</string>
+    <string name="auth_password_hint">Password</string>
+    <string name="auth_forgot">Lupa Password?</string>
+    <string name="auth_login">Masuk</string>
+    <string name="auth_register">Daftar</string>
+    <string name="auth_no_account">Belum punya akun? Daftar</string>
+    <string name="auth_have_account">Sudah punya akun? Masuk</string>
+    <string name="auth_guest">Lanjut sebagai Tamu</string>
+    <string name="auth_register_heading">Buat Akun Baru</string>
+    <string name="auth_register_subtitle">Daftar untuk menyimpan watchlist dan ulasanmu</string>
+    <string name="error_name_required">Nama wajib diisi</string>
+    <string name="error_email_invalid">Format email tidak valid</string>
+    <string name="error_password_min">Password minimal 8 karakter</string>
+    <string name="processing">Memproses…</string>
+    <string name="google_client_id_missing">Atur GOOGLE_WEB_CLIENT_ID di local.properties dan backend/.env sebelum login Google.</string>
+    <string name="google_token_invalid">Token Google tidak bisa dibaca. Coba login lagi.</string>
+    <string name="google_credential_invalid">Respons kredensial Google tidak dikenali.</string>
+    <string name="google_signin_failed">Login Google gagal: %1$s</string>
+    <string name="forgot_title">Lupa password</string>
+    <string name="forgot_message">Masukkan email akunmu. Kami akan mengirim tautan untuk membuat password baru.</string>
+    <string name="send_reset_link">Kirim tautan</string>
+    <string name="cancel">Batal</string>
+    <string name="movie_synopsis_missing">Sinopsis belum tersedia.</string>
+    <string name="search_all">Semua</string>
+    <string name="search_explore">Jelajahi Film</string>
+    <string name="search_results">Hasil (%1$d)</string>
+    <string name="search_empty">Film tidak ditemukan.
+Coba kata kunci atau genre lain.</string>
+    <string name="search_voice_prompt">Sebutkan judul film…</string>
+    <string name="search_voice_unavailable">Pengenalan suara tidak tersedia di perangkat ini.</string>
+    <string name="guest_name">Tamu</string>
+    <string name="guest_mode">Mode tamu — data tersimpan di perangkat ini</string>
+    <string name="watchlist_saved">Tersimpan</string>
+    <string name="watchlist_title">Watchlist</string>
+    <string name="review_edit">Ubah Ulasan</string>
+    <string name="rating_display">%1$s/10 (%2$d suara)</string>
+    <string name="overview_missing">Sinopsis belum tersedia dalam Bahasa Indonesia.</string>
+    <string name="director_format">Sutradara: %1$s</string>
+    <string name="trailer_missing">Trailer belum tersedia untuk film ini.</string>
+    <string name="no_trailer_app">Tidak ada aplikasi untuk membuka trailer.</string>
+    <string name="share_movie_format">Ayo nonton %1$s! https://www.themoviedb.org/movie/%2$d</string>
+    <string name="share_movie_title">Bagikan film</string>
+    <string name="watchlist_empty_title">Belum ada film tersimpan</string>
+    <string name="watchlist_count">%1$d film tersimpan</string>
+    <string name="watchlist_removed">%1$s dihapus dari watchlist</string>
+    <string name="continue_count">Lanjutkan (%1$d)</string>
+    <string name="genre_minimum">Pilih minimal 1 genre</string>
+    <string name="review_saved">Ulasan tersimpan ✓</string>
+    <string name="onboarding_start">Mulai</string>
+    <string name="onboarding_next">Lanjut</string>
+    <string name="home_region_hollywood">Hollywood</string>
+    <string name="home_region_indonesia">Indonesia</string>
+    <string name="home_region_korea">Korea</string>
+    <string name="home_region_bollywood">Bollywood</string>
+    <string name="home_section_pick">Pilihan Untukmu</string>
+    <string name="home_section_trending">Sedang Tren</string>
+    <string name="home_section_new">Rilis Terbaru</string>
+    <string name="home_section_top">Rating Tertinggi</string>
+    <string name="profile_title">Profil</string>
+    <string name="profile_settings_desc">Pengaturan</string>
+    <string name="profile_public">Profil Publik</string>
+    <string name="profile_viewed">Dilihat</string>
+    <string name="profile_reviews">Ulasan</string>
+    <string name="profile_watchlist">Watchlist</string>
+    <string name="profile_genres">Genre Favorit</string>
+    <string name="profile_genres_empty">Belum ada genre dipilih. Atur lewat Pengaturan.</string>
+    <string name="profile_history">Terakhir Dilihat</string>
+    <string name="profile_history_empty">Film yang kamu buka akan muncul di sini.</string>
+    <string name="notifications_title">Notifikasi</string>
+    <string name="notifications_read_all">Tandai dibaca</string>
+    <string name="notifications_all">Semua</string>
+    <string name="notifications_movies">Film</string>
+    <string name="notifications_system">Sistem</string>
+    <string name="notifications_empty">Belum ada notifikasi.</string>
+    <string name="back">Kembali</string>
+    <string name="play_trailer_desc">Putar trailer</string>
+    <string name="play_trailer">Putar Trailer</string>
+    <string name="review_give">Beri Ulasan</string>
+    <string name="detail_overview">Sinopsis</string>
+    <string name="detail_cast">Pemeran</string>
+    <string name="detail_your_review">Ulasanmu</string>
+    <string name="share_desc">Bagikan</string>
+    <string name="retry">Coba Lagi</string>
+    <string name="search_title">Cari Film</string>
+    <string name="search_hint">Cari judul film…</string>
+    <string name="clear_desc">Hapus</string>
+    <string name="search_voice_desc">Cari dengan suara</string>
+    <string name="view_toggle_desc">Ganti tampilan</string>
+    <string name="watchlist_empty">Watchlist masih kosong.
+Buka detail film lalu ketuk Watchlist untuk menyimpannya.</string>
+    <string name="settings_title">Pengaturan</string>
+    <string name="onboarding_continue">Lanjut</string>
+    <string name="onboarding_skip">Lewati</string>
+    <string name="splash_title">KATALOG FILM</string>
+    <string name="review_sheet_title">Nilai &amp; Ulas</string>
+    <string name="review_rating_prompt">Rating kamu</string>
+    <string name="review_mood_prompt">Bagaimana perasaanmu setelah menonton?</string>
+    <string name="review_hint">Tulis ulasanmu (opsional)</string>
+    <string name="review_tags_prompt">Pilih tag</string>
+    <string name="review_submit">Kirim Ulasan</string>
+    <string name="genre_picker_title">Pilih Favoritmu</string>
+    <string name="genre_picker_subtitle">Pilih genre yang kamu suka. Beranda akan menampilkan rekomendasi dari pilihanmu.</string>
+    <string name="genre_picker_continue">Pilih minimal 1 genre</string>
+    <string name="home_title">Katalog Film</string>
+    <string name="genre_unknown">Film</string>
+    <string name="notifications_desc">Notifikasi</string>
+    <string name="home_search_hint">Cari film, judul, atau genre…</string>
+    <string name="search_retry">Coba Lagi</string>
+    <string name="watchlist_desc">Watchlist</string>
+    <string name="notification_category_movies">Film</string>
+    <string name="notification_category_system">Sistem</string>
+    <string name="settings_preferences">Preferensi</string>
+    <string name="settings_effect_sound">Suara efek</string>
+    <string name="settings_notifications">Notifikasi dalam aplikasi</string>
+    <string name="settings_theme">Tema</string>
+    <string name="settings_theme_title">Tema aplikasi</string>
+    <string name="settings_favorite_genres">Genre favorit</string>
+    <string name="settings_data">Data</string>
+    <string name="settings_clear_history">Hapus riwayat tontonan</string>
+    <string name="settings_clear_history_title">Hapus riwayat?</string>
+    <string name="settings_clear_history_message">Daftar "Terakhir Dilihat" akan dikosongkan. Watchlist dan ulasan tidak ikut terhapus.</string>
+    <string name="delete">Hapus</string>
+    <string name="settings_history_deleted">Riwayat dihapus</string>
+    <string name="settings_other">Lainnya</string>
+    <string name="settings_about">Tentang aplikasi</string>
+    <string name="app_version">v1.0.0</string>
+    <string name="settings_about_message">Versi 1.0.0
+Data film dari TMDB. Aplikasi ini memakai layanan TMDB tetapi tidak didukung atau disertifikasi oleh TMDB.</string>
+    <string name="close">Tutup</string>
+    <string name="settings_guest_logout">Keluar dari mode tamu</string>
+    <string name="logout">Keluar</string>
+    <string name="logout_title">Keluar?</string>
+    <string name="logout_message">Kamu akan kembali ke halaman masuk.</string>
+    <string name="selected_count">%1$d dipilih</string>
+    <string name="api_key_missing">API key TMDB belum diisi. Tambahkan TMDB_API_KEY di local.properties lalu Sync Gradle.</string>
+    <string name="api_key_invalid">API key TMDB tidak valid.</string>
+    <string name="api_server_error">Server bermasalah (kode %1$d).</string>
+    <string name="api_network_error">Tidak ada koneksi internet. Periksa jaringanmu lalu coba lagi.</string>
+    <string name="auth_backend_connection_error">Tidak bisa terhubung ke backend. Pastikan server Node.js aktif dan alamat BACKEND_BASE_URL benar.</string>
+    <string name="auth_backend_google_connection_error">Tidak bisa terhubung ke backend. Periksa server Node.js dan jaringan.</string>
+    <string name="auth_response_incomplete">Respons autentikasi dari server tidak lengkap.</string>
+    <string name="auth_register_failed">Pendaftaran gagal. Coba lagi.</string>
+    <string name="auth_login_invalid">Email atau password salah.</string>
+    <string name="auth_google_failed">Login Google gagal diverifikasi oleh server.</string>
+    <string name="auth_forgot_failed">Permintaan reset password gagal.</string>
+    <string name="auth_backend_required">Google OAuth belum dikonfigurasi pada backend.</string>
+    <string name="auth_google_token_required">Google ID token wajib dikirim.</string>
+    <string name="auth_email_invalid">Format email tidak valid.</string>
+    <string name="auth_email_or_password_invalid">Email atau password belum valid.</string>
+    <string name="auth_password_length">Password harus 8 sampai 72 karakter.</string>
+    <string name="auth_register_name_length">Nama harus terdiri dari 2 sampai 120 karakter.</string>
+    <string name="auth_google_unverified">Identitas Google tidak valid atau email belum terverifikasi.</string>
+    <string name="auth_google_email_conflict">Email sudah terhubung ke akun Google lain.</string>
+    <string name="auth_google_expired">Google ID token tidak valid atau kedaluwarsa.</string>
+    <string name="auth_google_account">Akun ini menggunakan Google. Lanjutkan dengan Google.</string>
+    <string name="auth_login_success">Login berhasil.</string>
+    <string name="auth_register_success">Akun berhasil dibuat.</string>
+    <string name="auth_email_registered">Email sudah terdaftar. Silakan masuk.</string>
+    <string name="auth_forgot_generic">Jika email terdaftar, tautan reset akan dikirim. Periksa kotak masuk dan folder spam.</string>
+    <string name="auth_reset_invalid">Tautan reset tidak valid atau sudah kedaluwarsa.</string>
+    <string name="auth_reset_password_length">Password baru harus 8 sampai 72 karakter.</string>
+    <string name="auth_reset_success">Password berhasil diperbarui. Silakan kembali ke aplikasi untuk login.</string>
+    <string name="auth_token_required">Token autentikasi wajib dikirim.</string>
+    <string name="auth_session_expired">Sesi tidak valid atau sudah kedaluwarsa.</string>
+    <string name="auth_too_many">Terlalu banyak permintaan. Coba lagi beberapa menit.</string>
+    <string name="endpoint_not_found">Endpoint tidak ditemukan.</string>
+    <string name="server_error">Terjadi kesalahan pada server.</string>
+    <string name="backend_service_name">katalog-film-api</string>
+    <string-array name="genres_names">
+        <item>Aksi</item>
+        <item>Petualangan</item>
+        <item>Animasi</item>
+        <item>Komedi</item>
+        <item>Kriminal</item>
+        <item>Dokumenter</item>
+        <item>Drama</item>
+        <item>Keluarga</item>
+        <item>Fantasi</item>
+        <item>Sejarah</item>
+        <item>Horor</item>
+        <item>Musik</item>
+        <item>Misteri</item>
+        <item>Romantis</item>
+        <item>Fiksi Ilmiah</item>
+        <item>Thriller</item>
+        <item>Perang</item>
+        <item>Western</item>
+    </string-array>
+    <string-array name="review_moods">
+        <item>🔥 Keren</item>
+        <item>😊 Suka</item>
+        <item>😐 Biasa</item>
+        <item>😕 Kurang</item>
+        <item>👎 Buruk</item>
+    </string-array>
+    <string-array name="review_tags">
+        <item>Akting Bagus</item>
+        <item>Ending Mantap</item>
+        <item>Plot Twist</item>
+        <item>Visual Memukau</item>
+        <item>Layak Ditonton Ulang</item>
+        <item>Alur Lambat</item>
+        <item>Soundtrack Keren</item>
+        <item>Bikin Nangis</item>
+    </string-array>
+    <string-array name="onboarding_titles">
+        <item>Temukan film terbaru
+Hollywood sampai Indonesia</item>
+        <item>Nilai dan tulis ulasan
+setiap film yang kamu tonton</item>
+        <item>Simpan ke watchlist,
+tonton kapan saja</item>
+    </string-array>
+    <string-array name="onboarding_descriptions">
+        <item>Jelajahi film terlaris, rilis terbaru, dan rating tertinggi dari berbagai negara.</item>
+        <item>Beri bintang, pilih perasaanmu, dan catat tag favorit untuk tiap film.</item>
+        <item>Kumpulkan film incaranmu dan lanjutkan lagi dari riwayat terakhir dilihat.</item>
+    </string-array>
+    <string-array name="home_regions">
+        <item>Hollywood</item>
+        <item>Indonesia</item>
+        <item>Korea</item>
+        <item>Bollywood</item>
+    </string-array>
+    <string-array name="home_sections">
+        <item>Pilihan Untukmu</item>
+        <item>Sedang Tren</item>
+        <item>Rilis Terbaru</item>
+        <item>Rating Tertinggi</item>
+    </string-array>
+    <string-array name="settings_themes">
+        <item>Ikuti sistem</item>
+        <item>Terang</item>
+        <item>Gelap</item>
+    </string-array>
+    <string name="zero">0</string>
+    <string name="nav_home">Beranda</string>
+    <string name="nav_search">Cari</string>
+    <string name="notification_watch_added">Masuk Watchlist</string>
+    <string name="notification_watch_body">%1$s ditambahkan ke daftar tontonanmu.</string>
+    <string name="notification_review_saved">Ulasan tersimpan</string>
+    <string name="notification_review_body">Terima kasih sudah menilai %1$s ⭐ %2$.1f</string>
+</resources>

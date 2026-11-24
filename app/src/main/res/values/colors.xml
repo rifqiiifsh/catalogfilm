@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="brand">#E11D2E</color>
+    <color name="brand_dark">#A80F1D</color>
+    <color name="brand_tint">#FDE8EA</color>
+    <color name="bg">#FFFFFF</color>
+    <color name="surface">#F5F5F8</color>
+    <color name="text_primary">#111114</color>
+    <color name="text_secondary">#6B6B78</color>
+    <color name="stroke">#E4E4EB</color>
+    <color name="star">#FFB400</color>
+    <color name="splash_bg">#0B0B0E</color>
+    <color name="white">#FFFFFF</color>
+</resources>
